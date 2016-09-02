@@ -1,6 +1,16 @@
-Name|About|WhichRating|OfgemComplaints|YearsInOperation|NoOfCustomers
-EDF Energy|EDF Energy, a wholly-owned subsidiary of the EDF Group is one of the UK’s largest energy companies and its largest producer of low-carbon electricity|1st of 52 (75%)|2nd of 52|8|3rd largest of 52
-British Gas|British Gas is the largest UK energy and home services company. We supply gas and electricity, boilers and boiler cover as well as other home services.|3rd of 52 (70%)|5th of 52|1|largest of 52
-nPower|npower is a leading supplier of gas and electricity for your home. Compare our cheap energy tariffs online and find one for you.|5th of 52 (65%)|6th of 52|2|2nd largest of 52
-SSE|SSE Airtricity is Ireland's second largest and greenest energy provider supplying greener electricity and natural gas to over 800,000 homes and businesses.|7th of 52 (59%)|2nd of 52|5|6th largest of 52
-Scottish Power|ScottishPower is part of the Iberdrola Group, a global energy company and a world leader in wind energy.|9th of 52(40%)|10th of 52|11|12th largest of 52
+Name|about|Ofgem1|Ofgem2|which|switch
+British Gas|1997. They have about 15 million customers|about average| have  1,574 complaints per 100,000 customers , industry average is 1,606|Which.co.uk rating of 54% (ranked 15th of 22 suppliers)|HomeHero is authorised to faciliate your switch to British Gas
+EDF Energy|2002 They have about 5 million customers|higher than average| have  2,533 complaints per 100,000 customers , industry average is 1,607|Which.co.uk rating of 55% (ranked 14th of 22 suppliers)|HomeHero is authorised to faciliate your switch to EDF Energy|
+ScottishPower|1990. They have about 5 million customers|higher than average|
+npower|2002. They have about 5 million customers|higher than average| have  2,056 complaints per 100,000 customers , industry average is 1,609|Which.co.uk rating of 41% (ranked 22nd of 22 suppliers)|HomeHero is authorised to faciliate your switch to npower|
+SSE|1998. They have about 7 million customers|about average|have  1,665 complaints per 100,000 customers , industry average is 1,610|Which.co.uk rating of 52% (ranked 18th of 22 suppliers)|HomeHero is authorised to faciliate your switch to SSE
+Eon|1989. They have about 6 million customers|about average| have  1,720 complaints per 100,000 customers , industry average is 1,611|Which.co.uk rating of 53% (ranked 16th of 22 suppliers)|HomeHero is authorised to faciliate your switch to Eon
+The Co-operative Energy|2010. They have about 500,000 customers|lower than average| have  840 complaints per 100,000 customers , industry average is 1,612|Which.co.uk rating of 45% (ranked 20th of 22 suppliers)|
+First Utility|2008. They have about 900,000 customers|lower than average| have  1,002 complaints per 100,000 customers , industry average is 1,613|Which.co.uk rating of 63% (ranked 10th of 22 suppliers)|
+Extra Energy|2014 . They have about 500,000 customers|lower than average| have  654 complaints per 100,000 customers , industry average is 1,614|Which.co.uk rating of 47% (ranked 19th of 22 suppliers)|
+Ovo |2009. They have about 400,000 customers|a lot lower than average| have  112 complaints per 100,000 customers , industry average is 1,615|Which.co.uk rating of 82% (ranked 1st of 22 suppliers)|
+Utilita|2003. They have about 250,000 customers|a lot higher than average| have  4,652 complaints per 100,000 customers , industry average is 1,616|Which.co.uk rating of 75% (ranked 5th of 22 suppliers)|
+Utility Warehouse|2013. They have not publically disclosed their current number of customers|higher than average| have 2007 complaints per 100,000 customers , industry average is 1,617|Which.co.uk rating of 75% (ranked 5th of 22 suppliers)
+Ecotricity|1995. They have not publically disclosed their current number of customers|
+Avro Energy|2015. They have not publically disclosed their current number of customers|not disclosed|'s customer complaint record is not disclosed by the regulator given their low market share|They are mentioned, but not given a score in the latest which review|
+Spark Energy|2007. They have about 350,000 customers|lower than average| have  1,052 complaints per 100,000 customers , industry average is 1,620|Which.co.uk rating of 58% (ranked 12th of 22 suppliers)|
